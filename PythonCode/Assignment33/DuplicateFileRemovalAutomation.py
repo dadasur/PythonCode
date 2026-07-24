@@ -1,3 +1,8 @@
+##########################################################
+#
+#   Importing required libraries
+#
+##########################################################
 import sys
 import os
 import hashlib
@@ -10,6 +15,16 @@ import smtplib
 from email.message import EmailMessage
 import mimetypes
 import schedule
+
+##########################################################
+#
+#   Function name :     Directorysanitize
+#   Input :             Name of Directory, Email, Interval 
+#   Description :       Deletes all Duplicate files periodically
+#   Date :              25/07/2026   
+#   Author :            Pravin Suryavanshi
+#
+########################################################## 
 def calculatechecksum(filename):
 
     fobj = open(filename,"rb")
@@ -159,7 +174,17 @@ Marvellous Automation System
             print(f"✓ Email successfully sent to {recipient_email}")
     except Exception as e:
         print(f"✗ Failed to send email: {e}")  
-                             
+
+##########################################################
+#
+#   Function name :     main
+#   Input :             Command line arguments
+#   Description :       It controls the script
+#   Date :              25/07/2026   
+#   Author :            Piyush Manohar Khairnar
+#
+##########################################################
+
 def main():
     isvalid, message = UVM.validatecommandline()
     if sys.argv[1] == "--help":
@@ -233,6 +258,10 @@ Example:
     while True:
         schedule.run_pending()
         time.sleep(1)
-
+##########################################################
+#
+#   Starter of the automation script
+#
+##########################################################
 if __name__ == "__main__":    
     main()
