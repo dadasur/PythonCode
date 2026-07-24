@@ -1,0 +1,49 @@
+
+================================================================================
+Starting time of directory scanning: Fri Jul 24 23:50:16 2026
+Name of the directory scanned: C:\Users\Pravin\Desktop\Marvellous\project\Duplicate
+File validation successful: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30 - Copy.py
+File validation successful: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30.5.py
+File validation successful: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30.py
+Duplicate file found: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30.py
+Original file kept: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30 - Copy.py
+Checksum value: e91d479f1fbd72c7178d2a1ff9940f1f
+Deleted duplicate file: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30.py
+File validation successful: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30_2.py
+File validation successful: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30_3.py
+File validation successful: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30_4 - Copy.py
+File validation successful: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30_4.py
+Duplicate file found: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30_4.py
+Original file kept: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30_4 - Copy.py
+Checksum value: 0db794d9835be3c94b7e92e1176c76db
+Deleted duplicate file: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30_4.py
+File validation successful: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30_50.py
+File validation successful: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30_6.py
+File validation successful: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30_7.py
+File validation successful: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Deno\Assignment30 - Copy.py
+Duplicate file found: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Deno\Assignment30 - Copy.py
+Original file kept: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30 - Copy.py
+Checksum value: e91d479f1fbd72c7178d2a1ff9940f1f
+Deleted duplicate file: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Deno\Assignment30 - Copy.py
+File validation successful: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Deno\Assignment30_4 - Copy.py
+Duplicate file found: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Deno\Assignment30_4 - Copy.py
+Original file kept: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30_4 - Copy.py
+Checksum value: 0db794d9835be3c94b7e92e1176c76db
+Deleted duplicate file: C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Deno\Assignment30_4 - Copy.py
+Completion time of directory scanning: Fri Jul 24 23:50:17 2026
+Total number of files scanned: 12
+Total number of duplicate files found: 4
+Total number of duplicate files deleted: 4
+Complete paths of all deleted duplicate files:
+- C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30.py
+- C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Assignment30_4.py
+- C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Deno\Assignment30 - Copy.py
+- C:/Users/Pravin/Desktop/Marvellous/project/Duplicate\Deno\Assignment30_4 - Copy.py
+Checksum values of duplicate files:
+- e91d479f1fbd72c7178d2a1ff9940f1f
+- 0db794d9835be3c94b7e92e1176c76db
+- e91d479f1fbd72c7178d2a1ff9940f1f
+- 0db794d9835be3c94b7e92e1176c76db
+Email delivery status: SMTP authentication successful.
+Complete paths of all deleted duplicate files:
+================================================================================
