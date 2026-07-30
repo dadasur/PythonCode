@@ -1,0 +1,1521 @@
+--------------------------------------------------
+---- Marvellous Platform Survillence System ----
+Log file gets created at : 2026-07-30_20-35-18
+--------------------------------------------------
+
+---------------- System Report -----------------
+PID : 0
+Name : System Idle Process
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+CPU usage : 339.40
+RAM usage : 0.00
+--------------------------------------------------
+PID : 4
+Name : System
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+CPU usage : 3.40
+RAM usage : 0.00
+--------------------------------------------------
+PID : 8
+Name : WUDFHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 100
+Name : Registry
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 1.54
+--------------------------------------------------
+PID : 384
+Name : smss.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 572
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.10
+RAM usage : 0.33
+--------------------------------------------------
+PID : 576
+Name : csrss.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 652
+Name : wininit.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 680
+Name : elevation_service.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 760
+Name : services.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 800
+Name : lsass.exe
+User Name : None
+Status : running
+CPU usage : 0.10
+RAM usage : 0.32
+--------------------------------------------------
+PID : 840
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 940
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.40
+RAM usage : 0.60
+--------------------------------------------------
+PID : 960
+Name : fontdrvhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 1084
+Name : ctfmon.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.36
+--------------------------------------------------
+PID : 1148
+Name : svchost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.43
+--------------------------------------------------
+PID : 1152
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 1196
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 1248
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 1328
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 1340
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 1432
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 1456
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.29
+--------------------------------------------------
+PID : 1564
+Name : SearchIndexer.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.62
+--------------------------------------------------
+PID : 1600
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 1624
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 1636
+Name : NisSrv.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.27
+--------------------------------------------------
+PID : 1660
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 1684
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 8.60
+RAM usage : 1.49
+--------------------------------------------------
+PID : 1704
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.31
+--------------------------------------------------
+PID : 1732
+Name : Code.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.39
+--------------------------------------------------
+PID : 1784
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 1800
+Name : dllhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.25
+--------------------------------------------------
+PID : 1808
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 1864
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.21
+--------------------------------------------------
+PID : 1896
+Name : msedge.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.31
+--------------------------------------------------
+PID : 1928
+Name : RuntimeBroker.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 1932
+Name : wuauclt.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.50
+--------------------------------------------------
+PID : 1968
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.10
+RAM usage : 0.24
+--------------------------------------------------
+PID : 1996
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 2024
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 2044
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 2072
+Name : Code.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 1.55
+--------------------------------------------------
+PID : 2144
+Name : chrome.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 1.61
+--------------------------------------------------
+PID : 2164
+Name : MemCompression
+User Name : None
+Status : running
+CPU usage : 0.40
+RAM usage : 2.15
+--------------------------------------------------
+PID : 2172
+Name : conhost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 2188
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 2196
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 2216
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 2228
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.29
+--------------------------------------------------
+PID : 2296
+Name : igfxCUIService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 2308
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.23
+--------------------------------------------------
+PID : 2316
+Name : Code.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 1.74
+--------------------------------------------------
+PID : 2388
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 2396
+Name : SynTPEnh.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 2400
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 2408
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 2504
+Name : conhost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.41
+--------------------------------------------------
+PID : 2512
+Name : chrome.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.70
+RAM usage : 6.04
+--------------------------------------------------
+PID : 2548
+Name : RtkAudioService64.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 2588
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.16
+--------------------------------------------------
+PID : 2616
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 2640
+Name : SSScheduler.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.36
+--------------------------------------------------
+PID : 2712
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 2732
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 2752
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.30
+--------------------------------------------------
+PID : 2888
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 3024
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 3032
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 3044
+Name : SecurityHealthService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 3084
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 3176
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.25
+--------------------------------------------------
+PID : 3240
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.24
+--------------------------------------------------
+PID : 3360
+Name : spoolsv.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 3376
+Name : chrome.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 3396
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.26
+--------------------------------------------------
+PID : 3408
+Name : conhost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 3444
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 3516
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 3524
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 3532
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.47
+--------------------------------------------------
+PID : 3540
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.28
+--------------------------------------------------
+PID : 3556
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.67
+--------------------------------------------------
+PID : 3588
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.30
+--------------------------------------------------
+PID : 3620
+Name : TrustedInstaller.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 3628
+Name : IpOverUsbSvc.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 3664
+Name : AggregatorHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 3700
+Name : WsNativePushService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 3716
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 3756
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 3764
+Name : sqlwriter.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 3772
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 3788
+Name : SynTPEnhService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 3816
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.40
+--------------------------------------------------
+PID : 3820
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.23
+--------------------------------------------------
+PID : 3828
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.33
+--------------------------------------------------
+PID : 3844
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 3852
+Name : UltraViewer_Service.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.32
+--------------------------------------------------
+PID : 3888
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.21
+--------------------------------------------------
+PID : 3896
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 3948
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 3972
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 3992
+Name : SgrmBroker.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 4012
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 4064
+Name : dasHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 4092
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 4348
+Name : chrome.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.20
+RAM usage : 0.65
+--------------------------------------------------
+PID : 4408
+Name : sqlservr.exe
+User Name : None
+Status : running
+CPU usage : 6.20
+RAM usage : 0.39
+--------------------------------------------------
+PID : 4444
+Name : MsMpEng.exe
+User Name : None
+Status : running
+CPU usage : 18.60
+RAM usage : 3.86
+--------------------------------------------------
+PID : 4492
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 4496
+Name : MpDefenderCoreService.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.38
+--------------------------------------------------
+PID : 4564
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.28
+--------------------------------------------------
+PID : 4608
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.42
+--------------------------------------------------
+PID : 4624
+Name : chrome.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 4628
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.21
+--------------------------------------------------
+PID : 5412
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 5428
+Name : msedge.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 1.60
+--------------------------------------------------
+PID : 6024
+Name : igfxHK.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 6200
+Name : uihost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.26
+--------------------------------------------------
+PID : 6240
+Name : TiWorker.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.25
+--------------------------------------------------
+PID : 6248
+Name : cmd.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 6316
+Name : chrome.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 6696
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 6744
+Name : PresentationFontCache.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 6876
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 6936
+Name : SearchProtocolHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.33
+--------------------------------------------------
+PID : 7068
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.35
+--------------------------------------------------
+PID : 7172
+Name : RuntimeBroker.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 7256
+Name : msedge.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 7260
+Name : msedge.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.54
+--------------------------------------------------
+PID : 7272
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 7400
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.24
+--------------------------------------------------
+PID : 7436
+Name : dllhost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 7696
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 7820
+Name : WSHelper.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 8064
+Name : TextInputHost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 8244
+Name : igfxEM.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 8248
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.16
+--------------------------------------------------
+PID : 8372
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.10
+RAM usage : 0.21
+--------------------------------------------------
+PID : 8424
+Name : chrome.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 1.51
+--------------------------------------------------
+PID : 8452
+Name : sihost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.34
+--------------------------------------------------
+PID : 8572
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 8744
+Name : McCHSvc.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 8852
+Name : MicrosoftEdgeUpdate.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 9016
+Name : Code.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 6.01
+--------------------------------------------------
+PID : 9024
+Name : msedge.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 9168
+Name : chrome.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 1.24
+--------------------------------------------------
+PID : 9244
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 9288
+Name : svchost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.32
+--------------------------------------------------
+PID : 9300
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 9360
+Name : MoUsoCoreWorker.exe
+User Name : None
+Status : running
+CPU usage : 0.20
+RAM usage : 0.54
+--------------------------------------------------
+PID : 9832
+Name : Code.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.35
+--------------------------------------------------
+PID : 9984
+Name : python.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.32
+--------------------------------------------------
+PID : 10116
+Name : igfxTray.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 10232
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 10588
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 10600
+Name : cmd.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 10636
+Name : StartMenuExperienceHost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.47
+--------------------------------------------------
+PID : 10736
+Name : svchost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.38
+--------------------------------------------------
+PID : 10824
+Name : browserhost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 11080
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.46
+--------------------------------------------------
+PID : 11144
+Name : Code.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 11484
+Name : Code.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.10
+RAM usage : 4.43
+--------------------------------------------------
+PID : 11720
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 11796
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 0.10
+RAM usage : 0.38
+--------------------------------------------------
+PID : 11832
+Name : updater.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 11884
+Name : msedge.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 1.42
+--------------------------------------------------
+PID : 12060
+Name : RuntimeBroker.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 12200
+Name : MicrosoftEdgeUpdate.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 12304
+Name : Code.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 1.29
+--------------------------------------------------
+PID : 12468
+Name : chrome.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.39
+--------------------------------------------------
+PID : 12624
+Name : MicrosoftEdgeUpdate.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 12712
+Name : servicehost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.43
+--------------------------------------------------
+PID : 12752
+Name : ApplicationFrameHost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 12760
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.31
+--------------------------------------------------
+PID : 12792
+Name : WsToastNotification.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.27
+--------------------------------------------------
+PID : 12832
+Name : Code.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.28
+--------------------------------------------------
+PID : 12840
+Name : dllhost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 12872
+Name : WmiPrvSE.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.27
+--------------------------------------------------
+PID : 12948
+Name : SynTPHelper.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 12976
+Name : taskhostw.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.36
+--------------------------------------------------
+PID : 13072
+Name : chrome.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 13468
+Name : M365Copilot.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.42
+--------------------------------------------------
+PID : 13628
+Name : RAVBg64.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.34
+--------------------------------------------------
+PID : 13688
+Name : svchost.exe
+User Name : None
+Status : running
+CPU usage : 14.40
+RAM usage : 1.26
+--------------------------------------------------
+PID : 13836
+Name : Microsoft.Notes.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 14136
+Name : RuntimeBroker.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.36
+--------------------------------------------------
+PID : 14256
+Name : SecurityHealthSystray.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 14284
+Name : MpSigStub.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 14420
+Name : explorer.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.30
+RAM usage : 2.03
+--------------------------------------------------
+PID : 14444
+Name : ipmsg.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 14604
+Name : McUpdaterModule.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 14808
+Name : python.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 2.80
+RAM usage : 0.68
+--------------------------------------------------
+PID : 15004
+Name : Code.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.88
+--------------------------------------------------
+PID : 15064
+Name : svchost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.36
+--------------------------------------------------
+PID : 15112
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 15180
+Name : csrss.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 15484
+Name : winlogon.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 15608
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 15640
+Name : RuntimeBroker.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.34
+--------------------------------------------------
+PID : 15664
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.16
+--------------------------------------------------
+PID : 15772
+Name : fontdrvhost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 15812
+Name : UserOOBEBroker.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 15908
+Name : dwm.exe
+User Name : None
+Status : running
+CPU usage : 0.20
+RAM usage : 0.48
+--------------------------------------------------
+PID : 16184
+Name : RuntimeBroker.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 16188
+Name : Code.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.16
+--------------------------------------------------
+PID : 16540
+Name : RtkNGUI64.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 16788
+Name : SearchFilterHost.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 16812
+Name : msedge.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.88
+--------------------------------------------------
+PID : 16864
+Name : wermgr.exe
+User Name : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 16932
+Name : chrome.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.20
+RAM usage : 2.93
+--------------------------------------------------
+PID : 17020
+Name : mc-webview-cnt.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 17036
+Name : chrome.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.28
+--------------------------------------------------
+PID : 17044
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 17148
+Name : MicrosoftEdgeUpdate.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.26
+--------------------------------------------------
+PID : 17248
+Name : WerFault.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+--------------------------------------------------
+--------------- End of Log File ----------------
+--------------------------------------------------

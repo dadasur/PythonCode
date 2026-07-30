@@ -1,0 +1,115 @@
+import psutil
+import sys
+import os
+import time
+import schedule
+
+def ProcessScan(processname):
+    listprocess = []
+
+    for proc in psutil.process_iter():
+        info = proc.as_dict(attrs=["pid","name","username","status"])
+        info["cpu_percent"] = proc.cpu_percent(None)
+        info["memory_percent"] = proc.memory_percent()
+        if info["name"] == processname:
+            listprocess.append(info)
+            return listprocess
+
+
+    return listprocess
+    
+def PlatformSurvillance(FolderName,processname):
+    Border = "-"*50
+
+    Ret = False
+
+    Ret = os.path.exists(FolderName)
+
+    if(Ret == True):
+        Ret = os.path.isdir(FolderName)
+        if(Ret == False):
+            print("Unable to proceed as directory name is existing but its nota adirectory")
+            return
+    else:
+        os.mkdir(FolderName)
+        print("Directory for the logfile gets created succesfully")
+
+    timestamp = time.strftime("%Y-%m-%d_%H-%M-%S")
+
+    FileName = os.path.join(FolderName,"Marvellous_%s.log" %timestamp)
+
+    fobj = open(FileName,"w")
+
+    print(f"Log file gets succesfully created with name {FileName}")
+
+    fobj.write(Border+"\n")
+    fobj.write("---- Marvellous Platform Survillence System ----\n")
+    fobj.write("Log file gets created at : "+timestamp+"\n")
+    fobj.write(Border+"\n\n")
+
+    fobj.write("---------------- System Report -----------------\n")
+
+    # Process log
+    Data = ProcessScan(processname)
+
+    for info in Data:
+        fobj.write("PID : %s\n" %info.get("pid"))
+        fobj.write("Name : %s\n" %info.get("name"))
+        fobj.write("User Name : %s\n" %info.get("username"))
+        fobj.write("Status : %s\n" %info.get("status"))
+        fobj.write("CPU usage : %.2f\n" %info.get("cpu_percent"))
+        fobj.write("RAM usage : %.2f\n" %info.get("memory_percent"))
+
+        fobj.write(Border+"\n")
+
+    fobj.write(Border+"\n")
+    fobj.write("--------------- End of Log File ----------------\n")
+    fobj.write(Border+"\n")
+
+    fobj.close()
+
+def main():
+    Border = "-"*50
+    print(Border)
+    print("---- Marvellous Platform Survillence System ----")
+    print(Border)
+
+    # --h & --u handling
+    if(len(sys.argv) == 2):
+        if(sys.argv[1] == "--h" or sys.argv[1] == "--H"):
+            print("This automation script is used to perform ")
+            print("1 : It fetch the information of running processess")
+
+        elif(sys.argv[1] == "--u" or sys.argv[1] == "--U"):
+            print("Use the automation script as : ")
+            print(f"python {sys.argv[0]} processname Folder_Name")
+            print("process name")
+            print("Folder_Name : Name of folder for the log file creation")
+            
+        else:
+            print("Unable to proceed as there is no matching argument")
+            print("Please use --h or --u flag for getting more details")
+
+    # Actual project code
+    elif(len(sys.argv) == 3):
+
+        print("Schedular started succesfully")
+        print("Press Ctrl + C to abort the automation script")
+        
+        schedule.every(1).minutes.do(PlatformSurvillance, sys.argv[2],sys.argv[1])
+
+        while True:
+            schedule.run_pending()
+            time.sleep(1)
+
+    else:
+        print("Invalid number of argumenst")
+        print("Unable to proceed as arguments are not matching")
+        print("Please use --h or --u flag for getting more details")
+
+    print(Border)
+    print("--- Thank you for using our automation System ---")
+    print(Border)
+
+if __name__ == "__main__":
+    main()

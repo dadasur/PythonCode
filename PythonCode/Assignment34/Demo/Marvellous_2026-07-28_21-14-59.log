@@ -1,0 +1,81 @@
+--------------------------------------------------
+---- Marvellous Platform Survillence System ----
+Log file gets created at : 2026-07-28_21-14-59
+--------------------------------------------------
+
+---------------- System Report -----------------
+Number of active CPU cores : 4
+CPU Usage : 6.1 %
+--------------------------------------------------
+RAM Usage : 82.2 %
+Total RAM available : 4182007808
+--------------------------------------------------
+Network Usage Report
+Sent : 46.34 MB
+Receive : 345.67 MB
+PID : 1404
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 1.17
+--------------------------------------------------
+PID : 1980
+Name : SearchApp.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.65
+--------------------------------------------------
+PID : 9000
+Name : backgroundTaskHost.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.28
+--------------------------------------------------
+PID : 9604
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 1.08
+--------------------------------------------------
+PID : 10544
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.54
+--------------------------------------------------
+PID : 11352
+Name : Video.UI.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.54
+--------------------------------------------------
+PID : 11512
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 13984
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.51
+--------------------------------------------------
+PID : 14560
+Name : SearchApp.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 1.60
+--------------------------------------------------
+--------------------------------------------------
+--------------- End of Log File ----------------
+--------------------------------------------------

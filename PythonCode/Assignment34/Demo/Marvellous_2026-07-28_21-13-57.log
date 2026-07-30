@@ -1,0 +1,74 @@
+--------------------------------------------------
+---- Marvellous Platform Survillence System ----
+Log file gets created at : 2026-07-28_21-13-57
+--------------------------------------------------
+
+---------------- System Report -----------------
+Number of active CPU cores : 4
+CPU Usage : 7.0 %
+--------------------------------------------------
+RAM Usage : 82.9 %
+Total RAM available : 4182007808
+--------------------------------------------------
+Network Usage Report
+Sent : 46.33 MB
+Receive : 345.66 MB
+PID : 1404
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 1.16
+--------------------------------------------------
+PID : 1980
+Name : SearchApp.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.64
+--------------------------------------------------
+PID : 9604
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 1.07
+--------------------------------------------------
+PID : 10544
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.53
+--------------------------------------------------
+PID : 11352
+Name : Video.UI.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.54
+--------------------------------------------------
+PID : 11512
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 13984
+Name : msedgewebview2.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.50
+--------------------------------------------------
+PID : 14560
+Name : SearchApp.exe
+User Name : DESKTOP-ISH79TQ\Pravin
+Status : stopped
+CPU usage : 0.00
+RAM usage : 1.58
+--------------------------------------------------
+--------------------------------------------------
+--------------- End of Log File ----------------
+--------------------------------------------------
